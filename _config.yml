@@ -3,7 +3,11 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Finley Sherry-Sargood
+o+-od-
+
+
+
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
@@ -22,11 +26,11 @@ footer-links:
   facebook:
   flickr:
   github: barryclark/jekyll-now
-  instagram:
+  instagram: fin._.895
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
